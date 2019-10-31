@@ -1,0 +1,5 @@
+# VS Code settings dir
+.vscode/
+
+# Environment variables
+settings.py
