@@ -3,3 +3,6 @@
 
 # Environment variables
 settings.py
+
+# Pycache
+__pycache__/
