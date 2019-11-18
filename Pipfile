@@ -8,6 +8,3 @@ flake8 = "*"
 
 [packages]
 python-twitter = "*"
-
-[requires]
-python_version = "3.7"
